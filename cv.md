@@ -8,7 +8,8 @@
 **Phone:** +7 912 018-87-80<br/>
 **E-mail:** anna.zhukanna@gmail.com<br/>
 **Telegram:** [@zhukanny](https://t.me/zhukanny)<br/>
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/anna-zhukova-37643aa3/)
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/anna-zhukova-37643aa3/)<br/>
+**Discord:** Anna Zhukova (@ZhukAnna)
 
 ---
 
@@ -49,6 +50,42 @@ function telephoneCheck(str) {
   return reg.test(str);
 }
 ```
+
+---
+
+### Projects:
+
+#### Random Password Generator
+*Random Password Generator on JavaScirpt*
+* HTML
+* CSS
+* JS
+Demo page: https://zhukanna.github.io/random-password/
+GitHub: https://github.com/ZhukAnna/random-password
+
+#### Rockster Chat
+*Page layout according to the Figma*
+* HTML
+* SCSS, BEM
+* Webpack
+Demo page: https://zhukanna.github.io/Rockster-chat/
+GitHub: https://github.com/ZhukAnna/Rockster-chat
+
+#### React Book API
+*Book search React-app using Google Books API.*
+* CSS, Bootstrap
+* React, React Hooks, React Router, Redux
+Demo page: https://zhukanna.github.io/react-book-api/
+GitHub: https://github.com/ZhukAnna/react-book-api
+
+
+#### Diary App
+*React-app for manage your tasks, save memories, ideas, deeds and share your thoughts with your friends.*
+* CSS
+* React, React Hooks, React Router
+* (in process)
+Demo page: https://zhukanna.github.io/diary-app/
+GitHub: https://github.com/ZhukAnna/diary-app
 
 ---
 
